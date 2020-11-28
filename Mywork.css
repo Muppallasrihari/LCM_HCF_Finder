@@ -1,0 +1,27 @@
+
+            .head{
+                border: 2px solid blue ;
+                margin-top: 5px;
+                padding: 10px;
+                background-color: cornsilk;
+                text-align: center;
+            }
+            .border{
+                border: 1px solid;
+                margin-top: 30px;
+                padding: 10px;
+                background-color: cadetblue;
+            }
+            .butn{
+                margin-left: 35%;
+            }
+            .result{
+                font-size: 20px;
+                text-align: center;
+                font-weight: bold;
+                color: whitesmoke;
+            }
+            .label{
+                color: ivory;
+                font-weight: bold;
+            }
